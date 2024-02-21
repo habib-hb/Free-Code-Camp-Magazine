@@ -1,1 +1,3 @@
 # Free-Code-Camp-Magazine
+
+I had a lot of fun doing this project....
